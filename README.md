@@ -9,7 +9,8 @@
 ## 📸 Скриншоты в игре
 
 ### Во время игры (прогноз с учётом текущих миссов):
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4c8c8c37-e6a0-485e-ada1-4f34a5b9a72f" />
+<img width="1167" height="226" alt="image" src="https://github.com/user-attachments/assets/d0a68b83-321c-4243-acfa-f45800251099" />
+
 
 
 ### В меню выбора карт:
